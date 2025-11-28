@@ -6,7 +6,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0" # REQUIRED to specify the them
 title             : "Yun-Vis"
 name              : "Yun-Vis"
 description       : "This website documents Hsiang-Yun Wu's reseach and teaching activities"
-url               : "https://yun-vis.github.io/ustp-bcc-git"
+url               : "https://yun-vis.github.io/"
 teaser            : "/assets/images/teaser/teaser.png"
 
 # Site Author

@@ -12,16 +12,21 @@ last_modified_at: 2025-08-21
 
 ## Programming
 
-- [C# Development](https://yun-vis.github.io/fhstp-bcc-csharp/)
-- [Web Development](https://yun-vis.github.io/fhstp-bcc-web/)
-- [Mobile Coding](https://yun-vis.github.io/fhstp-bcc-mobile/)
+- [C# Development](https://yun-vis.github.io/ustp-bcc-csharp/)
+- [Web Development](https://yun-vis.github.io/ustp-bcc-web/)
+- [Mobile Coding](https://yun-vis.github.io/ustp-bcc-mobile/)
+- [Data Structure & Algorithm](https://yun-vis.github.io/ustp-bcc-dsa/)
 
 ## Computer Graphics
 
-- [Computer Graphics Unity](https://yun-vis.github.io/fhstp-bcc-unity/)
+- [Computer Graphics Unity](https://yun-vis.github.io/ustp-bcc-unity/)
 
 ## Visualization
 
 ## Seminar
 
+- [Git](https://yun-vis.github.io/ustp-bcc-git/)
+
 ## Thesis
+
+- [Scientific Writing]()
