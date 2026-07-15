@@ -2,7 +2,7 @@
 main:
   - title: "Experience"
     url: /pages/experience
-  - title: "Research"
+  # - title: "Research"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
