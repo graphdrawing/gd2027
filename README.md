@@ -1,1 +1,1 @@
-# [Personal Website of Hsiang-Yun Wu](https://github.com/yun-vis/yun-vis.github.io/)
+# [Website of GD2027](https://graphdrawing.github.io/gd2027/)
