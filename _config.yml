@@ -11,15 +11,15 @@ teaser            : "/assets/images/teaser/teaser.png"
 
 # Site Author
 author:
-  name            : "Marton Naszodi"
-  avatar          : "/assets/images/photos/2023.jpg"
-  bio             : "I am a geometer."
-  location        : "Hungary"
-  email           :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:marton.naszodi@renyi.hu"
+  name            : "Graph Drawing 2027"
+#  avatar          : "/assets/images/photos/2023.jpg"
+#  bio             : "I am a geometer."
+#  location        : "Hungary"
+#  email           :
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:marton.naszodi@renyi.hu"
 
 plugins:
   - jekyll-remote-theme
