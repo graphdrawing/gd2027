@@ -10,7 +10,7 @@ description              : ""
 url                      : "https://graphdrawing.github.io/gd2027/"
 teaser                   : "/assets/images/teaser/budapestView.png"
 logo                     : "/assets/images/logo/gdlogo-2027-transparent.png"
-favicon                  : "/assets/images/logo/favicon.png"
+favicon                  : "/assets/images/logo/favicon.ico"
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
