@@ -7,12 +7,12 @@ title             : "Graph Drawing 2027, Budapest"
 name              : "Graph Drawing 2027, Budapest"
 description       : "This is the website of the conference Graph Drawing 2027, to be held in Budapest"
 url               : "https://graphdrawing.github.io/gd2027"
-teaser            : "/assets/images/teaser/teaser.png"
+teaser            : "/assets/images/teaser/budapestView.png"
 
 # Site Author
 author:
   name            : "Graph Drawing 2027"
-#  avatar          : "/assets/images/photos/2023.jpg"
+  avatar          : "/assets/images/logo/gdlogo-2027-transparent.png"
 #  bio             : "I am a geometer."
 #  location        : "Hungary"
 #  email           :
