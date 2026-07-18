@@ -12,7 +12,7 @@ description              : ""
 url                      : "http://graphdrawing.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "graphdrawing/gd2027"
-teaser                   : # "/assets/images/background.png"
+teaser                   : "/assets/images/teaser/budapestView.png"
 logo                     : "/assets/images/logo/gdlogo-2027-transparent.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
