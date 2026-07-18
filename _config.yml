@@ -5,14 +5,14 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0" # REQUIRED to specify the them
 # Site Settings
 locale                   : "en-US"
 title                    : "GD 2027"
+name                     : "Graph Drawing 2027, Budapest"
+description              : ""
+url                      : "https://graphdrawing.github.io/gd2027/"
+teaser                   : "/assets/images/teaser/budapestView.png"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
-description              : ""
-url                      : "http://graphdrawing.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "graphdrawing/gd2027"
-teaser                   : "/assets/images/teaser/budapestView.png"
 logo                     : "/assets/images/logo/gdlogo-2027-transparent.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -93,7 +93,7 @@ author:
   name             : "GD 2027"
   avatar           : "/assets/images/logo/gdlogo-2027-transparent.png"
   bio              : "The 35th International Symposium on Graph Drawing and Network Visualization will be held at Rényi Institute in Budapest, Hungary from September 15-17, 2027. A PhD school will take place on September 13-14, 2027."
-  location         : "Budapest, Hungary"
+  location         : "HUN-REN Alfréd Rényi Institute of Mathematics, Budapest, Hungary"
 #  email            : ""
   links:
     - label: "Contact Organizers"
@@ -131,17 +131,17 @@ footer:
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url: "https://www.facebook.com/graphdrawing.org/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    #- label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    #- label: "GitLab"
+      # icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    #- label: "Bitbucket"
+      # icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 
