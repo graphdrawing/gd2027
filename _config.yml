@@ -9,15 +9,9 @@ name                     : "Graph Drawing 2027, Budapest"
 description              : ""
 url                      : "https://graphdrawing.github.io/gd2027/"
 teaser                   : "/assets/images/teaser/budapestView.png"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-logo                     : "/assets/images/logo/gdlogo-2027-transparent.png"
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
 
 # Site Author
 author:
