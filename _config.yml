@@ -76,3 +76,9 @@ footer:
       # url: "https://instagram.com/"
 
 
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache # REQUIRED to use include_cached
+  - jekyll-feed
+  - jekyll-seo-tag
+
