@@ -1,10 +1,10 @@
 ---
 layout: single
-author_profile: true
 classes: wide
+author_profile: true
+title: "PhD School"
 header:
   image: /assets/images/teaser/teaser.png
-title: "PhD School"
 last_modified_at: 2026-07-18
 ---
 
