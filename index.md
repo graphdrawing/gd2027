@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single #home
 classes: wide
 author_profile: true
 title: "Home"
