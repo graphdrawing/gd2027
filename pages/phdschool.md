@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 title: "PhD School"
 header:
-  image: /assets/images/teaser/budapestView.png
+  image: /assets/images/teaser/budapestBridges1.png
 last_modified_at: 2026-07-18
 ---
 
