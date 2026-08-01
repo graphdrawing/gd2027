@@ -19,4 +19,11 @@ Graph Drawing is concerned with the geometric representation of graphs and const
 The symposium on Graph Drawing and Network Visualization has been the main annual event in this area for 35 years. Its focus is on combinatorial and algorithmic aspects of graph drawing as well as the design of network visualization systems and interfaces.
 {: style="text-align: justify;"}
 
+## Invited speakers
+
+[*László Lovász*](https://renyi.hu/en/staff/laszlo-lovasz), Rényi Institute, Budapest.
+
+[*István Kovács*](https://www.shapr3d.com/), Shapr3D.
+
+
 ## More is coming soon.
