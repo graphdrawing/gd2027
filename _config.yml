@@ -21,7 +21,7 @@ author:
   avatar           : "/assets/images/logo/gdlogo-2027-transparent.png"
   bio              : "The 35th International Symposium on Graph Drawing and Network Visualization will be held at Rényi Institute in Budapest, Hungary from September 15-17, 2027. A PhD school will take place on September 13-14, 2027."
   location         : "Budapest, Hungary"
-#  email            : ""
+  email            : "2027.graph.drawing@renyi.hu"
   links:
     - label: "Contact Organizers"
       icon: "fas fa-fw fa-envelope-square"
