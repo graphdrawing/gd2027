@@ -40,6 +40,16 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
     <td style="border: none;"><a href="https://ait-budapest.com/" target="_blank"><img src="assets/images/sponsor/ait.png" width="320" /></a><br />
     <a href="https://ait-budapest.com/" target="_blank" style="padding-top: 10px; display: inline-block;"><strong class="sponsers-text" style="font-size: 1.2em;">AIT Budapest</strong></a>
     </td>
+        <td style="border: none;"></td>
+    <td style="border: none;"></td>
+    <td style="border: none;"><a href="https://www.shapr3d.com/" target="_blank"><img src="assets/images/sponsor/sharpr3d.png" width="320" /></a><br />
+    <a href="https://www.shapr3d.com/" target="_blank" style="padding-top: 10px; display: inline-block;"><strong class="sponsers-text" style="font-size: 1.2em;">Sharpr3D</strong></a>
+    </td>
+        <td style="border: none;"></td>
+    <td style="border: none;"></td>
+    <td style="border: none;"><a href="https://www.yworks.com" target="_blank"><img src="assets/images/sponsor/yworks.png" width="320" /></a><br />
+    <a href="https://www.yworks.com" target="_blank" style="padding-top: 10px; display: inline-block;"><strong class="sponsers-text" style="font-size: 1.2em;">yWorks</strong></a>
+    </td>
   </tr>
 
 </table>
