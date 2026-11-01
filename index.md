@@ -27,3 +27,19 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 
 ## More is coming soon.
+
+## Sponsors
+
+
+### Gold Sponsors
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"></td>
+    <td style="border: none;"></td>
+    <td style="border: none;"><a href="https://ait-budapest.com/" target="_blank"><img src="assets/images/sponsor/ait.png" width="320" /></a><br />
+    <a href="https://ait-budapest.com/" target="_blank" style="padding-top: 10px; display: inline-block;"><strong class="sponsers-text" style="font-size: 1.2em;">AIT Budapest</strong></a>
+    </td>
+  </tr>
+
+</table>
